@@ -1,0 +1,80 @@
+body
+{
+    background-image: url("../images/ducks.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+html, body
+
+{
+    height: 100%;
+    margin: 0;
+}
+
+#nav
+{
+    text-align: center;
+    margin: auto;
+    height:8%;
+    width: 60%;
+    margin:auto;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+a
+{
+     margin:35px;
+     margin-top:10px;
+    font-size:24px;
+    font-style:bold;
+    font-family: font-family: 'Cinzel Decorative', cursive;
+    color:black;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:black;
+    opacity:.6;
+    text-decoration: none;
+    font-family: 'Cinzel Decorative', sans-serif;
+
+}
+
+#contact
+{
+    height:30%;
+    width:40%;
+    text-align: center;
+    margin:auto;
+    background-color: #ffffff;
+    border: 3px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60)
+    font-size:40px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact
+{
+    font-size:33px;
+    font-style:bold,italic;
+    font-family:'Cinzel Decorative', cursive;
+}
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 5px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60)
+}
+
+p
+{
+    font-size:18px;    
+}
+
